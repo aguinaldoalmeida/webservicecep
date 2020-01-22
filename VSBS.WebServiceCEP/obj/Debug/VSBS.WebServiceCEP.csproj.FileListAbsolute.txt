@@ -1,0 +1,13 @@
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.exe.config
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.exe
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.pdb
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.csprojResolveAssemblyReference.cache
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.exe
+C:\TNE\VS Baby Steps\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.pdb
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.exe.config
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.exe
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\bin\Debug\VSBS.WebServiceCEP.pdb
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.csprojAssemblyReference.cache
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.csproj.CoreCompileInputs.cache
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.exe
+C:\Users\Aguinaldo\Desktop\Visual Studio 2020 - CRUD e API\VSBS.WebServiceCEP\VSBS.WebServiceCEP\obj\Debug\VSBS.WebServiceCEP.pdb
